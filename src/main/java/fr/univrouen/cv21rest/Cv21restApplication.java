@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Cv21restApplication {
 
 	public static void main(String[] args) {
-		System.getProperties().put("server.port", 8010);
+		System.getProperties().put("server.port");
 
 		SpringApplication.run(Cv21restApplication.class, args);
 	}
