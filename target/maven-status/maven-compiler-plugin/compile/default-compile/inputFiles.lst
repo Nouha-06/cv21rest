@@ -1,3 +1,7 @@
 /mnt/c/Users/abdo/Desktop/M1/S2/XML/cv21rest/src/main/java/fr/univrouen/cv21rest/Cv21restApplication.java
 /mnt/c/Users/abdo/Desktop/M1/S2/XML/cv21rest/src/main/java/fr/univrouen/cv21rest/controllers/IndexController.java
+/mnt/c/Users/abdo/Desktop/M1/S2/XML/cv21rest/src/main/java/fr/univrouen/cv21rest/controllers/PostController.java
+/mnt/c/Users/abdo/Desktop/M1/S2/XML/cv21rest/src/main/java/fr/univrouen/cv21rest/controllers/GetController.java
 /mnt/c/Users/abdo/Desktop/M1/S2/XML/cv21rest/src/main/java/fr/univrouen/cv21rest/ServletInitializer.java
+/mnt/c/Users/abdo/Desktop/M1/S2/XML/cv21rest/src/main/java/model/CV.java
+/mnt/c/Users/abdo/Desktop/M1/S2/XML/cv21rest/src/main/java/model/TestCV.java
